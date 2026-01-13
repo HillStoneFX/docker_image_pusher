@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 gzxhwq/sing-box:1.12.16
+--platform=linux/amd64 metacubex/mihomo:latest
