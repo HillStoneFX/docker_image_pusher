@@ -1,3 +1,2 @@
 #支持指定架构
---platform=linux/amd64 nvidia/cuda:12.8.1-cudnn-devel-ubuntu24.04
---platform=linux/amd64 vllm/vllm-openai:latest
+--platform=linux/amd64 juewuy/shellcrash:latest
